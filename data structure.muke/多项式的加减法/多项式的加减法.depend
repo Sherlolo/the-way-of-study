@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1549265837 source:e:\dai ma\date strcuture.muke\多项式的加减法\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

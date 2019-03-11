@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540654156 source:e:\dai ma\date strcuture.muke\1.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

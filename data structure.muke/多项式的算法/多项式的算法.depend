@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1539948101 source:e:\dai ma\date strcuture.muke\多项式的算法\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+

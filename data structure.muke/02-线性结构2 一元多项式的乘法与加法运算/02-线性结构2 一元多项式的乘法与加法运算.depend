@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542638175 source:e:\dai ma\date strcuture.muke\02-线性结构2 一元多项式的乘法与加法运算\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
