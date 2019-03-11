@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547630702 source:e:\dai ma\c.muke\学生成绩管理系统\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545658227 source:e:\dai ma\c.muke\文曲星猜数问题\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
