@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551167130 source:e:\dai ma\date strcuture.muke\数的处理与遍历\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

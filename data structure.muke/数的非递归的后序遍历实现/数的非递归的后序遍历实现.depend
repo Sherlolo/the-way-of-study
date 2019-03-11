@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551179937 source:e:\dai ma\date strcuture.muke\数的非递归的后序遍历实现\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

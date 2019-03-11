@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551322949 source:e:\dai ma\date strcuture.muke\数的非递归遍历\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
