@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548034893 source:e:\dai ma\c.muke\计算运行时间\main.c
+	<stdio.h>
+	<time.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546007239 source:e:\dai ma\c.muke\数字字符转化为整形\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+
